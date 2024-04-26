@@ -1,1 +1,1 @@
-# How-To-Install
+This is a repository that demonstates step by step procedure on how to install different softwares. Though I tried to put the latest updated steps, please check the official documentation in case of doubt.
